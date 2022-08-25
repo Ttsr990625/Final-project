@@ -7,7 +7,7 @@ cd nvpro_core git submodule update --init --recursive
 
 
 
-second use cmake ，make rtxon and vulkan_ray_tracing
+second use cmake ，make whitted and vulkan_ray_tracing
 
 
 make sure install vulkan sdk and some problems with multi screen u can search Load in main.cpp to change scene
